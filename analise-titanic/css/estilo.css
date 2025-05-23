@@ -8,7 +8,7 @@ body {
     color: #333;
 }
 
-h1, h2 {
+h1, h2, main {
     text-align: center;
     color: #0077cc;
 }
