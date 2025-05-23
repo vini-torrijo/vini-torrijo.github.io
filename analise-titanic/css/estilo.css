@@ -7,8 +7,10 @@ body {
     background-color: #f9f9f9;
     color: #333;
 }
-
-h1, h2, main {
+p, {
+     text-align: center;
+}
+h1, h2, {
     text-align: center;
     color: #0077cc;
 }
