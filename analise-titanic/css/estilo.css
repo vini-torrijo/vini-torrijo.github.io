@@ -10,8 +10,8 @@ body {
 p {
      text-align: center;
 }
-h1, h2 {
-    text-align: center;
+h1, h2, main {
+     text-align: center;
     color: #0077cc;
 }
 
